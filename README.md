@@ -1,5 +1,5 @@
 # About
-👋 Hi, I’m @MalakaAvinashRaj.\n
+👋 Hi, I’m @MalakaAvinashRaj.
 👀 I’m interested in creating some cool stuff of my own.
 🌱 I’m currently learning python.
 💞️ I’m looking to collaborate on any project related to python.
